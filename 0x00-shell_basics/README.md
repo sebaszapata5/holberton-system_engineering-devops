@@ -1,1 +1,1 @@
-comands shell linux
+comands shell

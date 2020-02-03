@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -e 's/`A`/`Z`/; s/`c`/`e`/'
+sed -e 's/C//; s/c//'
